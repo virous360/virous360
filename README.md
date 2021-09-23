@@ -5,6 +5,9 @@
 - 💞️ I’m looking to get a job<br>
 - 📫 How to reach me : ali.naim.virous360@gmail.com
 
+<h2>some of my links</h2>
+<script src="https://tryhackme.com/badge/647755"></script>
+
 <h2>My knowledge</h2>
 - html for a couple of months <br>
 - javascript  for 1 week <br>

@@ -1,7 +1,3 @@
-# 💫 About Me:
-👀 Currently working on :<br>-Pentesting websites - api<br>💼 jobs (check LinkedIn for history) : <br>- self-employed/random freelancing<br>📖 education (in progress):<br>- SAT grade : (soon)<br>- Uni : (2025-2026)<br>📸 hobby : photography<br>👨‍💻 looking to build a casual pentesting team... if intrested contact me thru my email
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ali3.14159265) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alinaim2007) 
 
